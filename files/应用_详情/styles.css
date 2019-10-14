@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:1804px;
+  width:1831px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -1123,5 +1123,36 @@
   left:10px;
   top:10px;
   width:602px;
+  word-wrap:break-word;
+}
+#u336_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:644px;
+  height:195px;
+  background:inherit;
+  background-color:rgba(54, 169, 206, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:5px 5px 5px rgba(0, 0, 0, 0.2);
+  -webkit-box-shadow:5px 5px 5px rgba(0, 0, 0, 0.2);
+  box-shadow:5px 5px 5px rgba(0, 0, 0, 0.2);
+}
+#u336 {
+  border-width:0px;
+  position:absolute;
+  left:1187px;
+  top:204px;
+  width:644px;
+  height:195px;
+}
+#u336_text {
+  border-width:0px;
+  position:absolute;
+  left:10px;
+  top:10px;
+  width:624px;
   word-wrap:break-word;
 }
