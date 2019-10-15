@@ -381,3 +381,46 @@
   width:294px;
   word-wrap:break-word;
 }
+#u540_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:123px;
+  height:26px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-left:0px;
+  border-top:0px;
+  border-right:0px;
+  border-radius:0px;
+  border-top-left-radius:0px;
+  border-top-right-radius:0px;
+  border-bottom-right-radius:0px;
+  border-bottom-left-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  color:#0000FF;
+}
+#u540 {
+  border-width:0px;
+  position:absolute;
+  left:860px;
+  top:473px;
+  width:123px;
+  height:26px;
+  color:#0000FF;
+}
+#u540_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:5px;
+  width:119px;
+  word-wrap:break-word;
+}
